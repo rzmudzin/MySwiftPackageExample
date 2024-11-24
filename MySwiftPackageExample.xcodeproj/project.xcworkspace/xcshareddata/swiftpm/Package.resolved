@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "myswiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rzmudzin/MySwiftPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "19613abc4fae049b90ec27edd92895c5d47cb5f1"
+      }
+    }
+  ],
+  "version" : 2
+}
